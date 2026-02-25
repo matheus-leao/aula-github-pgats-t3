@@ -3,8 +3,9 @@ Esse projeto será utilizado para uma aula de primeiros passos sobre o Git e Git
 
 Objetivo da aula 
 
-Listado aqui
+Confira o arquivo [objetivo.md](objetivo.md) para mais detalhes.
 
 Ta interessado em algo mais complexo?
 
-Listado aqui
+[Listado aqui](git.md)
+
