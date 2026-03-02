@@ -27,10 +27,13 @@
 ---
 
 ### 3️⃣ Trabalhando com Branches
+  - Branches são ramificações do código que permitem trabalhar paralelamente sem afetar a branch principal
 
 - 🌿 **Criando uma branch**
-  - Branches são ramificações do código que permitem trabalhar paralelamente sem afetar a branch principal
-  
+   ```bash
+  git checkout -b nome-da-branch
+  ```
+
 - 🔀 **Alternando entre branches**
   ```bash
   git checkout nome-da-branch
